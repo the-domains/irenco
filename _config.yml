@@ -1,0 +1,14 @@
+layout_spectrum: 0.5971202424261719
+typography_spectrum: 0.019789066165685654
+color:
+  brandStrength: 0.7145782047882676
+  lightness: 0.6861643160227686
+  saturation: 0.6113843377679586
+  rhythmicContrast: 0.26021694764494896
+  brandColors:
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+name: irenco
